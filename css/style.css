@@ -16,6 +16,11 @@
 	{
 		background: #fff;
 	}
+	
+	table td
+	{
+		border: 1px solid black;
+	}
 
 		body.is-loading *
 		{
